@@ -1,20 +1,21 @@
 {
     "jurisdiction": {
-      "name": "XXX",
-      "id": "Qxxx"
+      "name": "Aruba",
+      "id": "Q21203",
+      "country": "Q29999"
     },
     "cabinet": {
-      "id": "Qxxx",
-      "start": "YYYY-MM-DD",
-      "parent": "Qxxx"
+      "id": "Q108714621",
+      "start": "2021-08-09",
+      "parent": "Q109683738"
     },
     "source": {
-        "url":   "XXX",
-        "title": "XXX",
+        "url":   "https://www.overheid.aw/bestuur-organisatie/samenstelling_3395/",
+        "title": "Samenstelling - Regering - Bestuur &amp; organisatie - Aruba Overheid",
         "lang":  {
-            "code": "en",
-            "wikidata": "Q1860"
+            "code": "nl",
+            "wikidata": "Q7411"
         }
     },
-    "agent": "every-politican-scrapers/XXX"
+    "agent": "every-politican-scrapers/aruba-ministers"
 }
