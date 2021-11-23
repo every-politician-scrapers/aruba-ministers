@@ -6,18 +6,28 @@ require 'pry'
 
 class MemberList
   class Member
+    REMAP = {
+      'Minister-President Minister van Algemene Zaken, Innovatie, Overheidsorganisatie, Infrastructuur en Ruimtelijke ordening' => [
+        'Minister-President',
+        'Minister van Algemene Zaken, Innovatie, Overheidsorganisatie, Infrastructuur en Ruimtelijke ordening'
+      ],
+    }.freeze
     def name
       tds[1].text.tidy
     end
 
     def position
-      tds[0].text.tidy.split(/ (?=Minister van)/)
+      REMAP.fetch(raw_position, raw_position)
     end
 
     private
 
     def tds
       noko.css('td')
+    end
+
+    def raw_position
+      tds[0].text.tidy
     end
   end
 
