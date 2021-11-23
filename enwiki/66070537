@@ -1,0 +1,262 @@
+{
+  "title": "Jane Semeleer",
+  "pageID": 66070537,
+  "categories": [
+    "Living people",
+    "Bank presidents and chief executive officers",
+    "21st-century economists",
+    "Women economists",
+    "Aruban economists",
+    "University of Toledo alumni",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Jeanette Semeleer is an Aruban economist who has been the president of the Central Bank of Aruba since 2008.",
+              "links": [
+                {
+                  "text": "Aruban",
+                  "type": "internal",
+                  "page": "Aruba"
+                },
+                {
+                  "type": "internal",
+                  "page": "Central Bank of Aruba"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Jeanette Semeleer"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "As president of the bank, Semeleer oversaw a seven-year enterprise to redesign the Aruban florin banknotes in partnership with Crane Currency.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Aruban florin"
+                },
+                {
+                  "type": "internal",
+                  "page": "Crane Currency"
+                }
+              ]
+            },
+            {
+              "text": "The new banknotes, first issued in 2019, are decorated with the indigenous plants and animals of Aruba."
+            },
+            {
+              "text": "The International Bank Note Society designated the new 100 florin as the \"Banknote of the Year for 2019\".",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "International Bank Note Society"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Semeleer joined the CBA in 1990, eventually leading several of its departments and becoming a member of its board in 2000."
+            },
+            {
+              "text": "Before the CBA, she served as an advisor for Aruba's Department of Economic Affairs as well as the Department of Foreign Relations."
+            },
+            {
+              "text": "She is a 1984 graduate of the University of Toledo, where she studied economics.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Toledo"
+                },
+                {
+                  "text": "economics",
+                  "type": "internal",
+                  "page": "economics"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "president of the Central Bank of Aruba",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Jeanette Semeleer"
+          },
+          "office": {
+            "text": "8th President of the Central Bank of Aruba",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Central Bank of Aruba"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "2008",
+            "number": 2008
+          },
+          "predecessor": {
+            "text": "Hassanali Mehran",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hassanali Mehran"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Toledo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Toledo"
+              }
+            ]
+          },
+          "monarch": {
+            "text": "Beatrix (1980-2013)\nWillem-Alexander (2013–present)",
+            "links": [
+              {
+                "text": "Beatrix",
+                "type": "internal",
+                "page": "Beatrix of the Netherlands"
+              },
+              {
+                "text": "Willem-Alexander",
+                "type": "internal",
+                "page": "Willem-Alexander of the Netherlands"
+              }
+            ]
+          },
+          "premier": {
+            "text": "Nelson Oduber (2004-2009)\nMike Eman (2009-2017)\nEvelyn Wever-Croes (2017–present)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nelson Oduber"
+              },
+              {
+                "type": "internal",
+                "page": "Mike Eman"
+              },
+              {
+                "type": "internal",
+                "page": "Evelyn Wever-Croes"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "last1": "Hoey",
+          "first1": "J. Kelly",
+          "title": "Aruba: Where Women Lead",
+          "url": "https://www.nytimes.com/2018/11/20/world/americas/aruba-where-women-lead.html",
+          "access-date": "10 December 2020",
+          "work": "The New York Times",
+          "date": "20 November 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Braynen-Kimani",
+          "first1": "Niccole",
+          "last2": "Weir",
+          "first2": "Melinda",
+          "title": "Star Turn: Aruba' s new banknotes spotlight the heroes among its flora and fauna.",
+          "url": "https://www.imf.org/external/pubs/ft/fandd/2020/06/arubas-new-banknotes-spotlight-natures-heroes-currency.htm",
+          "journal": "Finance & Development",
+          "volume": "57",
+          "number": "2",
+          "access-date": "10 December 2020",
+          "date": "June 2020",
+          "template": "citation",
+          "type": "journal"
+        },
+        {
+          "title": "The Central Bank of Aruba holds the official launch of the new 2019 series florin banknotes",
+          "url": "https://www.arubatoday.com/the-central-bank-of-aruba-holds-the-official-launch-of-the-new-2019-series-florin-banknotes/",
+          "access-date": "10 December 2020",
+          "work": "Aruba Today",
+          "date": "20 May 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Pinto",
+          "first1": "Juan Luis",
+          "title": "Aruba Wins IBNS 2019 Bank Note of Year Award",
+          "url": "https://www.arubatoday.com/aruba-wins-ibns-2019-bank-note-of-year-award/",
+          "access-date": "10 December 2020",
+          "work": "Aruba Today",
+          "date": "4 April 2020",
+          "pages": "56–57",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Friedberg",
+          "first1": "Arthur L.",
+          "title": "Aruba 100-florin note named Banknote of the Year",
+          "url": "https://www.coinworld.com/news/precious-metals/aruba-100-florin-note-named-banknote-of-the-year-for-2019",
+          "access-date": "10 December 2020",
+          "magazine": "Coin World",
+          "date": "20 April 2020",
+          "template": "citation",
+          "type": "magazine"
+        },
+        {
+          "title": "Semeleer new boss Central Bank Aruba",
+          "url": "http://www.dutchcaribbeanlegalportal.com/news/latest-news/190-semeleer-new-boss-central-bank-aruba",
+          "access-date": "14 December 2020",
+          "work": "Dutch Caribbean Legal Portal",
+          "date": "25 August 2008",
+          "archive-url": "https://web.archive.org/web/20190916171832/http://www.dutchcaribbeanlegalportal.com/news/latest-news/190-semeleer-new-boss-central-bank-aruba",
+          "archive-date": "16 September 2019}}{{unreliable source|date=December 2020|undefined",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "aruba-bio-stub"
+        },
+        {
+          "template": "economist-stub"
+        }
+      ]
+    }
+  ]
+}
