@@ -7,17 +7,23 @@ require 'pry'
 class MemberList
   class Member
     def name
-      noko.css('.name').text.tidy
+      tds[1].text.tidy
     end
 
     def position
-      noko.css('.position').text.tidy
+      tds[0].text.tidy.split(/ (?=Minister van)/)
+    end
+
+    private
+
+    def tds
+      noko.css('td')
     end
   end
 
   class Members
     def member_container
-      noko.css('.member')
+      noko.css('.text table tbody tr')
     end
   end
 end
