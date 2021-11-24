@@ -265,6 +265,13 @@
           ]
         }
       ],
+      "templates": [
+        {
+          "text": "Hendrik Croes",
+          "lan1": "nl",
+          "template": "ill"
+        }
+      ],
       "references": [
         {
           "title": "The American Bar",
@@ -402,6 +409,13 @@
               ]
             }
           ]
+        }
+      ],
+      "templates": [
+        {
+          "text": "Pueblo Orguyoso y Respeta",
+          "lan1": "nl",
+          "template": "ill"
         }
       ],
       "references": [
@@ -758,6 +772,34 @@
           }
         ]
       ],
+      "templates": [
+        {
+          "text": "Xiomara Ruiz-Maduro",
+          "lan1": "nl",
+          "template": "ill"
+        },
+        {
+          "text": "Otmar Oduber",
+          "lan1": "nl",
+          "template": "ill"
+        },
+        {
+          "text": "Marisol Lopez-Tromp",
+          "lan1": "nl",
+          "template": "ill"
+        },
+        {
+          "text": "Andin Bikker",
+          "lan1": "nl",
+          "template": "ill"
+        },
+        {
+          "text": "Armando Lampe",
+          "lan1": "nl",
+          "text1": "Rudy Lampe",
+          "template": "ill"
+        }
+      ],
       "references": [
         {
           "url": "https://www.overheid.aw/actueel/nieuws_46856/item/gouverneur-beedigt-minister-marisol-lopez-tromp_47684.html",
@@ -938,6 +980,13 @@
               ]
             }
           ]
+        }
+      ],
+      "templates": [
+        {
+          "text": "College Aruba financieel toezicht",
+          "lan1": "nl",
+          "template": "ill"
         }
       ],
       "references": [
@@ -1138,6 +1187,14 @@
               "text": "In early October 2020 Wever-Croes stated that financial support measures for businesses would be continued for a further three months."
             }
           ]
+        }
+      ],
+      "templates": [
+        {
+          "text": "Mitch Henriquez",
+          "lan1": "nl",
+          "text1": "Dood van Mitch Henriquez",
+          "template": "ill"
         }
       ],
       "references": [
