@@ -16,7 +16,13 @@
         {
           "sentences": [
             {
-              "text": "Juan Alfonso Boekhoudt (born 27 January 1965) is an Aruban politician.",
+              "text": "Juan Alfonso Boekhoudt (born 27 January 1965) is an Aruban politician serving as the Governor of Aruba since 1 January 2017.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Governor of Aruba"
+                }
+              ],
               "formatting": {
                 "bold": [
                   "Juan Alfonso Boekhoudt"
@@ -24,18 +30,10 @@
               }
             },
             {
-              "text": "He has been Governor of Aruba since 1 January 2017.",
+              "text": "He previously served as Minister Plenipotentiary from 14 November 2013 to 17 November 2016.",
               "links": [
                 {
-                  "type": "internal",
-                  "page": "Governor of Aruba"
-                }
-              ]
-            },
-            {
-              "text": "He previously was Minister Plenipotentiary of Aruba from 14 November 2013 to 17 November 2016.",
-              "links": [
-                {
+                  "text": "Minister Plenipotentiary",
                   "type": "internal",
                   "page": "Minister Plenipotentiary of Aruba"
                 }
@@ -273,7 +271,7 @@
       ]
     },
     {
-      "title": "Appointment as Governor of Aruba",
+      "title": "Appointment as Governor",
       "depth": 0,
       "paragraphs": [
         {
@@ -310,14 +308,7 @@
         {
           "sentences": [
             {
-              "text": "The move drew criticism from the government of Prime Minister Eman, which stated that the rules of the Council of Ministers of the Kingdom regarding gubernatorial appointments had not been followed.",
-              "links": [
-                {
-                  "text": "Eman",
-                  "type": "internal",
-                  "page": "Mike Eman"
-                }
-              ]
+              "text": "The move drew criticism from the Aruban cabinet, which stated that the rules of the Council of Ministers of the Kingdom regarding gubernatorial appointments had not been followed."
             },
             {
               "text": "With the Aruban cabinet wishing that the appointment was reversed."
