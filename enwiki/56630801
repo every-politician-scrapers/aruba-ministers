@@ -16,13 +16,7 @@
         {
           "sentences": [
             {
-              "text": "Danguillaume Pierino Oduber (born July 13, 1978) is an Aruban Politician and current Minister of Tourism, Public Health and Sport of Aruba.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Aruba"
-                }
-              ],
+              "text": "Danguillaume Pierino Oduber (born July 13, 1978) is an Aruban Politician serving as Minister of Tourism and Public Health in the Second Wever-Croes Cabinet.",
               "formatting": {
                 "bold": [
                   "Danguillaume Pierino Oduber"
@@ -30,11 +24,12 @@
               }
             },
             {
-              "text": "He previously served as a member of the Estates of Aruba from November 2013 until November 17, 2017, when he took up his current role.",
+              "text": "He previously served as a member of Parliament",
               "links": [
                 {
+                  "text": "Parliament",
                   "type": "internal",
-                  "page": "Estates of Aruba"
+                  "page": "Parliament of Aruba"
                 }
               ]
             }
@@ -68,13 +63,7 @@
             "text": "Dangui Oduber"
           },
           "office": {
-            "text": "Minister of Tourism & Public Health of Aruba",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Aruba"
-              }
-            ]
+            "text": "Minister of Tourism & Public Health"
           },
           "image": {
             "text": "Minister Dangui Oduber.jpg"
@@ -105,14 +94,15 @@
             ]
           },
           "termstart": {
-            "text": "November 17, 2017"
+            "text": "September 20, 2021"
           },
           "office2": {
-            "text": "Member of the Estates of Aruba",
+            "text": "Member of Parliament",
             "links": [
               {
+                "text": "Member of Parliament",
                 "type": "internal",
-                "page": "Estates of Aruba"
+                "page": "Parliament of Aruba"
               }
             ]
           },
@@ -162,13 +152,7 @@
             ]
           },
           "office1": {
-            "text": "Minister of Sport of Aruba",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Aruba"
-              }
-            ]
+            "text": "Minister of Sport"
           },
           "termstart1": {
             "text": "November 17th, 2017"
@@ -242,13 +226,7 @@
               ]
             },
             {
-              "text": "He has two siblings, Glenson and Nelson Jr. He is also the grandson of politician and former SAC president Milo Croes.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Milo Croes"
-                }
-              ]
+              "text": "He has two siblings, Glenson and Nelson Jr."
             }
           ]
         },
@@ -258,7 +236,7 @@
               "text": "He attended Bon Bini Primary school and after, attended La Salle Secondary School."
             },
             {
-              "text": "After finishing secondary school, Oduber attended Colegio Arubano and finished his HAVO.",
+              "text": "After finishing secondary school, Oduber attended Colegio Arubano and graduated with his HAVO diploma.",
               "links": [
                 {
                   "type": "internal",
@@ -267,7 +245,7 @@
               ]
             },
             {
-              "text": "After Colegio Arubano, Oduber moved to the Netherlands where he graduated from the Inholland University of Applied Sciences with a Bachelor's Degree in Economics.",
+              "text": "following his graduation, Oduber moved to the Netherlands where he graduated from the Inholland University of Applied Sciences with a Bachelor's Degree in Economics.",
               "links": [
                 {
                   "type": "internal",
@@ -289,7 +267,7 @@
         {
           "sentences": [
             {
-              "text": "After returning home, Oduber started working for the local telephone service provider, SETAR.",
+              "text": "After returning home, Oduber started working for the telecommunications service provider, SETAR.",
               "links": [
                 {
                   "text": "SETAR",
@@ -309,7 +287,7 @@
         {
           "sentences": [
             {
-              "text": "Oduber joined the People's Electoral Movement (MEP) and formally started his political career in 2013, appearing at number 6 on their list.",
+              "text": "Oduber joined the People's Electoral Movement (MEP) and formally started his political career in 2013.",
               "links": [
                 {
                   "text": "People's Electoral Movement (MEP)",
@@ -408,7 +386,7 @@
         {
           "sentences": [
             {
-              "text": "In the 2021 Aruban general election, Oduber along with the sitting Party (MEP) secured 9 seats with 35.32% of the vote.",
+              "text": "following the 2021 Aruban general election, Oduber's party secured 9 seats with 35.32% of the vote.",
               "links": [
                 {
                   "text": "2021 Aruban general election",
@@ -418,27 +396,32 @@
               ]
             },
             {
-              "text": "This ensured them a guaranteed conversation starter towards forming a new government."
-            },
-            {
-              "text": "On August 19th, MEP reached an agreement with RAIZ to form the 2nd Wever Croes Cabinet."
-            },
-            {
-              "text": "Thus, the Minority Coalition government was formed.",
+              "text": "On August 19th following the appointment of the formateur, MEP reached an agreement with RAIZ to form a government.",
               "links": [
                 {
-                  "text": "Minority",
+                  "text": "formateur",
                   "type": "internal",
-                  "page": "Minority government"
-                },
-                {
-                  "type": "internal",
-                  "page": "Coalition government"
+                  "page": "formateur"
                 }
               ]
             },
             {
-              "text": "Oduber ended his Term as Minister of Sport and was sworn in as Minister of Tourism & Public Health on September 20th, 2021."
+              "text": "becoming Aruba's third minority coalition government.",
+              "links": [
+                {
+                  "text": "minority",
+                  "type": "internal",
+                  "page": "Minority government"
+                },
+                {
+                  "text": "coalition government",
+                  "type": "internal",
+                  "page": "coalition government"
+                }
+              ]
+            },
+            {
+              "text": "Oduber was sworn in as Minister of Tourism & Public Health on September 20th"
             }
           ]
         }
