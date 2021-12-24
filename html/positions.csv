@@ -1,0 +1,15 @@
+id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
+Q301451,Governor of Aruba,Q29999,,,,,,,,Governor of Aruba
+Q1288478,Prime Minister of Aruba,Q21203,Q21203,,,,,,,Prime Minister of Aruba
+Q109684416,"Minister of Economic Affairs, Communications, and Sustainable Development",Q29999,Q21203,,,,,,,
+Q110096016,"Minister of Economic Affairs, Social Affairs and Culture",Q29999,Q21203,,,,,,,
+Q109684619,Minister of Education and Sport,Q29999,Q21203,,,,,,,
+Q109684405,Minister of Finance and Culture,Q29999,Q21203,,,,,,,
+Q109684262,"Minister of General Affairs, Innovation, Government Organization, Infrastructure and Spatial Planning",Q29999,Q21203,,,,,,,
+Q109684524,Minister of Justice and Social Affairs,Q29999,Q21203,,,,,,,
+Q109684699,Minister for Health and Tourism,Q29999,Q21203,,,,,,,
+Q109684495,"Minister for Integrity, Nature, Transport and Care for the Elderly",Q29999,Q21203,,,,,,,
+Q109684575,"Minister for Labour, Integration and Energy",Q29999,Q21203,,,,,,,
+Q1956567,Minister Plenipotentiary of Aruba,Q55,,,,,,,,Minister Plenipotentiary of Aruba
+Q109684943,Secretary of the Cabinet of Aruba,Q29999,Q21203,,,,,,,
+Q109684992,Attorney General of Aruba,Q29999,Q21203,,,,,,,
