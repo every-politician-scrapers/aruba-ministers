@@ -1,99 +1,11 @@
 {
-  "title": "Xiomara Maduro",
-  "pageID": 69907947,
-  "categories": [
-    "Living people",
-    "1974 births",
-    "Ministers of Finance of the Netherlands",
-    "Aruban politicians",
-    "Culture ministers",
-    "Dutch women in politics",
-    "University of Groningen alumni",
-    "Aruban economists"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Xiomara Maduro (24 December 1974) is a Dutch politician from Aruba, who is the Minister of Finance and Culture in Aruba.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Aruba"
-                },
-                {
-                  "text": "Minister of Finance and Culture",
-                  "type": "internal",
-                  "page": "Politics of Aruba"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Xiomara Maduro"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "year": "1974",
-          "month": "12",
-          "day": "24",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Xiomara Maduro"
-          },
-          "office": {
-            "text": "Minister of Finance & Culture"
-          },
-          "image": {
-            "text": "Xiomara Maduro .jpeg"
-          },
-          "termstart": {
-            "text": "2009",
-            "number": 2009
-          },
-          "birth_name": {
-            "text": "Xiomara Jeanira Maduro"
-          },
-          "birth_date": {
-            "text": "December 24, 1974"
-          },
-          "birth_place": {
-            "text": "Aruba",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Aruba"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "economist, politician"
-          },
-          "party": {
-            "text": "People's Electoral Movement (MEP)",
-            "links": [
-              {
-                "text": "People's Electoral Movement",
-                "type": "internal",
-                "page": "People's Electoral Movement (Aruba)"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Xiomara Maduro",
+  "office": "Minister of Finance & Culture",
+  "image": "Xiomara Maduro .jpeg",
+  "termstart": "2009",
+  "birth_name": "Xiomara Jeanira Maduro",
+  "birth_date": "December 24, 1974",
+  "birth_place": "Aruba",
+  "occupation": "economist, politician",
+  "party": "People's Electoral Movement (MEP)"
 }

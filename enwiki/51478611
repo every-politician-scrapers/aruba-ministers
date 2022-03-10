@@ -1,163 +1,18 @@
 {
-  "title": "Alfonso Boekhoudt",
-  "pageID": 51478611,
-  "categories": [
-    "1965 births",
-    "Living people",
-    "Aruban politicians",
-    "Governors of Aruba",
-    "Ministers plenipotentiary (Aruba)",
-    "Aruban businesspeople"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Juan Alfonso Boekhoudt (born 27 January 1965) is an Aruban politician serving as the Governor of Aruba since 1 January 2017.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Governor of Aruba"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Juan Alfonso Boekhoudt"
-                ]
-              }
-            },
-            {
-              "text": "He previously served as Minister Plenipotentiary from 14 November 2013 to 17 November 2016.",
-              "links": [
-                {
-                  "text": "Minister Plenipotentiary",
-                  "type": "internal",
-                  "page": "Minister Plenipotentiary of Aruba"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "date": "October 2020",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1965",
-          "month": "01",
-          "day": "27",
-          "df": "yes",
-          "template": "birth date and age"
-        },
-        {
-          "template": "politics of aruba"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Alfonso Boekhoudt"
-          },
-          "image": {
-            "text": "Gouverneur van Aruba Alfonso Boekhoudt (cropped).jpg"
-          },
-          "order1": {
-            "text": "4th"
-          },
-          "office1": {
-            "text": "Governor of Aruba"
-          },
-          "monarch1": {
-            "text": "Willem-Alexander",
-            "links": [
-              {
-                "text": "Willem-Alexander",
-                "type": "internal",
-                "page": "Willem-Alexander of the Netherlands"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Mike Eman Evelyn Wever-Croes",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mike Eman"
-              },
-              {
-                "type": "internal",
-                "page": "Evelyn Wever-Croes"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "1 January 2017"
-          },
-          "predecessor1": {
-            "text": "Fredis Refunjol",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Fredis Refunjol"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Minister Plenipotentiary of Aruba",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Minister Plenipotentiary of Aruba"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "Mike Eman",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mike Eman"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "14 November 2013"
-          },
-          "term_end2": {
-            "text": "17 November 2016"
-          },
-          "predecessor2": {
-            "text": "Edwin Abath",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Edwin Abath"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Juan David Yrausquin",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Juan David Yrausquin"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "January 27, 1965"
-          },
-          "birth_place": {
-            "text": "Aruba"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Alfonso Boekhoudt",
+  "image": "Gouverneur van Aruba Alfonso Boekhoudt (cropped).jpg",
+  "order1": "4th",
+  "office1": "Governor of Aruba",
+  "monarch1": "Willem-Alexander",
+  "primeminister1": "Mike Eman Evelyn Wever-Croes",
+  "term_start1": "1 January 2017",
+  "predecessor1": "Fredis Refunjol",
+  "office2": "Minister Plenipotentiary of Aruba",
+  "primeminister2": "Mike Eman",
+  "term_start2": "14 November 2013",
+  "term_end2": "17 November 2016",
+  "predecessor2": "Edwin Abath",
+  "successor2": "Juan David Yrausquin",
+  "birth_date": "January 27, 1965",
+  "birth_place": "Aruba"
 }
