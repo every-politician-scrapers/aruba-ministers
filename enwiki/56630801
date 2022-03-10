@@ -1,193 +1,25 @@
 {
-  "title": "Dangui Oduber",
-  "pageID": 56630801,
-  "categories": [
-    "Members of the Estates of Aruba",
-    "Government ministers of Aruba",
-    "People's Electoral Movement (Aruba) politicians",
-    "1978 births",
-    "Living people"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Danguillaume Pierino Oduber (born July 13, 1978) is an Aruban politician serving as Minister of Tourism and Public Health in the second Wever-Croes Cabinet.",
-              "formatting": {
-                "bold": [
-                  "Danguillaume Pierino Oduber"
-                ]
-              }
-            },
-            {
-              "text": "He previously served as a member of Parliament",
-              "links": [
-                {
-                  "text": "Parliament",
-                  "type": "internal",
-                  "page": "Parliament of Aruba"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "images": [
-        {
-          "file": "File:Huramentacion Dangui Oduber.jpg",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Huramentacion_Dangui_Oduber.jpg?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Huramentacion_Dangui_Oduber.jpg",
-          "caption": "Oduber sworn in as Member of Parliament for the 2017–2018 term.",
-          "links": []
-        }
-      ],
-      "templates": [
-        {
-          "description": "Aruban politician",
-          "template": "short description"
-        },
-        {
-          "year": "1978",
-          "month": "07",
-          "day": "13",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Dangui Oduber"
-          },
-          "office": {
-            "text": "Minister of Tourism & Public Health"
-          },
-          "image": {
-            "text": "Minister Dangui Oduber.jpg"
-          },
-          "country": {
-            "text": "Aruba"
-          },
-          "monarch": {
-            "text": "Willem-Alexander",
-            "links": [
-              {
-                "text": "Willem-Alexander",
-                "type": "internal",
-                "page": "Willem-Alexander of the Netherlands"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Alex Schwengle"
-          },
-          "primeminister": {
-            "text": "Evelyn Wever-Croes",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Evelyn Wever-Croes"
-              }
-            ]
-          },
-          "termstart": {
-            "text": "September 20, 2021"
-          },
-          "office2": {
-            "text": "Member of Parliament",
-            "links": [
-              {
-                "text": "Member of Parliament",
-                "type": "internal",
-                "page": "Parliament of Aruba"
-              }
-            ]
-          },
-          "party": {
-            "text": "People's Electoral Movement",
-            "links": [
-              {
-                "text": "People's Electoral Movement",
-                "type": "internal",
-                "page": "People's Electoral Movement (Aruba)"
-              }
-            ]
-          },
-          "termend2": {
-            "text": "November 17, 2017"
-          },
-          "termstart2": {
-            "text": "November 2013"
-          },
-          "birth_name": {
-            "text": "Danguillaume Pierino Oduber"
-          },
-          "birth_date": {
-            "text": "July 13, 1978"
-          },
-          "birth_place": {
-            "text": "Oranjestad, Aruba",
-            "links": [
-              {
-                "text": "Oranjestad",
-                "type": "internal",
-                "page": "Oranjestad, Aruba"
-              },
-              {
-                "type": "internal",
-                "page": "Aruba"
-              }
-            ]
-          },
-          "parents": {
-            "text": "Nelson Oduber",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nelson Oduber"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister of Sport"
-          },
-          "termstart1": {
-            "text": "November 17th, 2017"
-          },
-          "termend1": {
-            "text": "September 20th, 2021"
-          },
-          "monarch1": {
-            "text": "Willem-Alexander",
-            "links": [
-              {
-                "text": "Willem-Alexander",
-                "type": "internal",
-                "page": "Willem-Alexander of the Netherlands"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Evelyn Wever-Croes",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Evelyn Wever-Croes"
-              }
-            ]
-          },
-          "preceded1": {
-            "text": "Alex Schwengle"
-          },
-          "children": {
-            "text": "2",
-            "number": 2
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Dangui Oduber",
+  "office": "Minister of Tourism & Public Health",
+  "image": "Minister Dangui Oduber.jpg",
+  "country": "Aruba",
+  "monarch": "Willem-Alexander",
+  "predecessor": "Alex Schwengle",
+  "primeminister": "Evelyn Wever-Croes",
+  "termstart": "September 20, 2021",
+  "office2": "Member of Parliament",
+  "party": "People's Electoral Movement",
+  "termend2": "November 17, 2017",
+  "termstart2": "November 2013",
+  "birth_name": "Danguillaume Pierino Oduber",
+  "birth_date": "July 13, 1978",
+  "birth_place": "Oranjestad, Aruba",
+  "parents": "Nelson Oduber",
+  "office1": "Minister of Sport",
+  "termstart1": "November 17th, 2017",
+  "termend1": "September 20th, 2021",
+  "monarch1": "Willem-Alexander",
+  "primeminister1": "Evelyn Wever-Croes",
+  "preceded1": "Alex Schwengle",
+  "children": "2"
 }
